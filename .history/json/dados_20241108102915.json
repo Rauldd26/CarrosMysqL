@@ -1,0 +1,45 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Banana",
+            "Detalhes": "Amarela",
+            "Foto": "https://preview.redd.it/the-all-famous-banana-car-i-know-about-it-you-all-know-v0-tddl1v74e2691.jpg?width=1024&format=pjpg&auto=webp&s=adbdfed0d34dea11e4c5619295c9dd25a4df4ce8"
+        },{
+            "id":"2",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },{
+            "id":"3",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },{
+            "id":"4",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },{
+            "id":"5",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },{
+            "id":"6",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },{
+            "id":"7",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },{
+            "id":"8",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        }
+    ]
+}
